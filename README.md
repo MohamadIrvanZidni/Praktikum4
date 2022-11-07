@@ -39,8 +39,17 @@ Output :
 Program untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
 Code :
 
+![Code](Foto/Code_Latihan1_Praktikum3.png)
+
+    import random
+
+    jumlah = int(input("Masukkan Jumlah N : "))
+
+    for i in range (jumlah) :
+        print("Data ke-", i+1, " adalah ", (random.uniform(0.1, 0.5)))    
 Output :
 
+1[Output](Foto/Output_Latihan1_Praktikum3.png)
 
 ## Latihan 2
 Program untuk menampilkan bilangan terbesar dari n buah data yang di inputkan
