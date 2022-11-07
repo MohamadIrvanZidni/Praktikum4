@@ -13,18 +13,18 @@ Kelas   : TI.22.A.3
 | 2 | Praktikum 3 | (https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
 | 3 | Kondisional & Perulangan | (https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
 
-# PRAKTIKUM 2
+# Praktikum 2
 ## Tugas Praktikum
 
-# PRAKTIKUM 3
+# Praktikum 3
 ## Latihan 1
 ## Latihan 2
 ## Tugas Praktikum
 
 # Kondisional dan Perulangan
-## Kondisional
-### Latihan 1
-### Latihan 2
-## Perulangan
+    ## Kondisional
+    ### Latihan 1
+    ### Latihan 2
+    ## Perulangan
 ### Latihan 1
 ### Latihan 2
