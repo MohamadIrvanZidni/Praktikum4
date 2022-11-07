@@ -15,3 +15,16 @@ Kelas   : TI.22.A.3
 
 # PRAKTIKUM 2
 ## Tugas Praktikum
+
+# PRAKTIKUM 3
+## Latihan 1
+## Latihan 2
+## Tugas Praktikum
+
+# Kondisional dan Perulangan
+## Kondisional
+### Latihan 1
+### Latihan 2
+## Perulangan
+### Latihan 1
+### Latihan 2
