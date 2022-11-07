@@ -49,7 +49,7 @@ Code :
         print("Data ke-", i+1, " adalah ", (random.uniform(0.1, 0.5)))    
 Output :
 
-1[Output](Foto/Output_Latihan1_Praktikum3.png)
+![Output](Foto/Output_Latihan1_Praktikum3.png)
 
 ## Latihan 2
 Program untuk menampilkan bilangan terbesar dari n buah data yang di inputkan
