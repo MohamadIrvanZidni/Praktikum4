@@ -71,8 +71,33 @@ Output :
 
 ![Output](Foto/Output_Latihan2_Praktikum3.png)
 
-## Tugas Praktikum
+## Tugas Praktikum 
 Program untuk menghitung jumlah laba hasil investasi seorang pengusaha selama 8 bulan
+Code :
+
+![Code](Foto/Code_Praktikum3.png)
+
+    a = 100000000
+
+    for x in range (1, 9) :
+        if(x>=1 and x<=2) :
+            b = a*0
+            print("Laba Bulan Ke-", x, " adalah ", b)
+        if(x>=3 and x<=4) :
+            c = a*0.1
+            print("Laba Bulan Ke-", x, " adalah ", c)
+        if(x>=5 and x<=7) :
+            d = a*0.5
+            print("Laba Bulan Ke-", x, " adalah ", d)
+        if(x==8) :
+            e = a*0.3
+            print("Laba Bulan Ke-", x, " adalah ", e)
+    total = b+b+c+c+d+d+d+e
+    print("Total : ", total)
+
+Output :
+
+![Output](Foto/Output_Praktikum3.png)
 
 # Kondisional dan Perulangan
 ## Kondisional
