@@ -9,13 +9,26 @@ Kelas   : TI.22.A.3
 
 | No | Daftar Isi | Link |
 | -- | ---------- | ---- |
-|  1 | Praktikum 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
-|  2 | Praktikum 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-3) |
-|  3 | Kondisional & Perulangan | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#kondisional-dan-perulangan) |
+| 1 | Praktikum 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
+| 2 | Praktikum 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-3) |
+| 3 | Kondisional & Perulangan | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#kondisional-dan-perulangan) |
 
 # Praktikum 2
 ## Tugas Praktikum
 Program untuk menampilkan bilangan terbesar dari 3 bilangan
+Code :
+    a = int(input("Bilangan Ke-1 : "))
+    b = int(input("Bilangan Ke-2 : "))
+    c = int(input("Bilangan Ke-3 : "))
+
+    if a>b and a>c :
+        print("Bilangan Terbesar Adalah : ", a)
+    elif b>a and b>c :
+        print("Bilangan Terbesar Adalah : ", b)
+    else :
+        print("Bilangan Terbesar Adalah : ", c)
+Output :
+
 
 # Praktikum 3
 ## Latihan 1
