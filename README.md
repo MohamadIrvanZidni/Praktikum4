@@ -18,7 +18,7 @@ Kelas   : TI.22.A.3
 Program untuk menampilkan bilangan terbesar dari 3 bilangan
 Code :
 
-![Code](Foto/Code.png)
+![Code](ModulPraktikum2/Foto/Code.png)
 
     a = int(input("Bilangan Ke-1 : "))
     b = int(input("Bilangan Ke-2 : "))
@@ -32,11 +32,17 @@ Code :
         print("Bilangan Terbesar Adalah : ", c)
 Output :
 
-![Output](Foto/Output.png)
+![Output](ModulPraktikum2/Foto/Output.png)
 
 # Praktikum 3
 ## Latihan 1
 Program untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
+Code :
+
+![Code](ModulPraktikum3/Foto/Code_Latihan1.png)
+
+Output :
+
 
 ## Latihan 2
 Program untuk menampilkan bilangan terbesar dari n buah data yang di inputkan
