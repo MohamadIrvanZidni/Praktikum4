@@ -9,9 +9,9 @@ Kelas   : TI.22.A.3
 
 | No | Daftar Isi | Link |
 | -- | ---------- | ---- |
-| 1 | Praktikum 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
-| 2 | Praktikum 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-3) |
-| 3 | Kondisional & Perulangan | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#kondisional-dan-perulangan) |
+|  1 | Praktikum 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-2) |
+|  2 | Praktikum 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#praktikum-3) |
+|  3 | Kondisional & Perulangan | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum4/blob/main/README.md#kondisional-dan-perulangan) |
 
 # Praktikum 2
 ## Tugas Praktikum
