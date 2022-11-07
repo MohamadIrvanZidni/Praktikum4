@@ -103,10 +103,83 @@ Output :
 ## Kondisional
 ### Latihan 1
 Program untuk menampilkan bilangan terbesar dari 2 bilangan
+Code :
+
+![Code](Foto/Code__Kondisional_Latihan1.png)
+
+    bil1 = int(input("Masukkan Bilangan Ke-1 : "))
+    bil2 = int(input("Masukkan Bilangan Ke-2 : "))
+
+    if(bil1 > bil2) :
+        print("Bilangan ", bil1, "Lebih Besar Dari Bilangan ", bil2)
+    else :
+        print("Bilangan ", bil2, "Lebih Besar Dari Bilangan ", bil1)
+
+Output :
+
+![Output](Foto/Output_Kondisional_Latihan1.png)
+
 ### Latihan 2
 Program untuk mengurutkan data berdasarkan input sejumlah data
+Code :
+
+![Code](Foto/Code__Kondisional_Latihan2.png)
+
+    a = int(input("Bilangan Ke-1 : "))
+    b = int(input("Bilangan Ke-2 : "))
+    c = int(input("Bilangan Ke-3 : "))
+
+    if a<b and a<c :
+        if b<c :
+            print(a, b, c)
+        else :
+            print(a, c, b)  
+    elif b<a and b<c :
+        if a<c :
+            print(b, a, c)
+        else :
+            print(b, c, a)
+    else :
+        if a<b :
+            print(c, b, a)
+        else :
+            print(c, a, b)
+
+Output :
+
+![Output](Foto/Output_Kondisional_Latihan2.png)
+
 ## Perulangan
 ### Latihan 1
 Program perulangan bertingkat (nested)
+Code :
+
+![Code](Foto/Code__Perulangan_Latihan1.png)
+
+    n = 9
+
+    for i in range (1, n+2) :
+        for j in range (0, n+1) :
+            print(str(i+j-1)+"  ", end= "  ")
+        print()
+
+Output :
+
+![Output](Foto/Output_Perulangan_Latihan1.png)
+
 ### Latihan 2
 Program untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
+Code :
+
+![Code](Foto/Code__Perulangan_Latihan2.png)
+
+    import random
+
+    jumlah = int(input("Masukkan Jumlah N : "))
+
+    for i in range (jumlah) :
+        print("Data ke-", i+1, " adalah ", (random.uniform(0.1, 0.5)))
+
+Output :
+
+![Output](Foto/Output_Perulangan_Latihan2.png)
